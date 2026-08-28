@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://batistibsi.github.io/snippets-tvbwee/sitemap.xml
